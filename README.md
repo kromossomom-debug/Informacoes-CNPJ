@@ -114,7 +114,7 @@ openpyxl
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/consulta-cnpj-streamlit.git
+git clone https://github.com/kromossomom-debug/consulta-cnpj-streamlit.git
 ```
 
 ### 2. Entrar na pasta
